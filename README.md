@@ -33,9 +33,7 @@ utf-8
 
 # Ukázka: 
 
-![alt text](https://github.com/alex2561/projekt_3/blob/main/aho.png?raw=true)
-
-
+![alt text](https://github.com/alex2561/projekt_3/blob/main/vysledek.png?raw=true)
 
 # Licence:
 
