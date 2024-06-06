@@ -8,9 +8,9 @@ Ujistěte se, že máte nainstalovaný Python 3.6 nebo novější. Můžete jej 
 
 # Použité knihovny:
 
-* requests
-* BeautifulSoup
-* pandas
+* requests 2.31.0
+* BeautifulSoup 4.x
+* pandas 1.5.3
 
 # Instalace knihoven: 
 
